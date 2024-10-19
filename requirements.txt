@@ -1,0 +1,6 @@
+diffusers~=0.30.3
+torchvision~=0.19.1
+numpy~=1.26.4
+matplotlib~=3.9.2
+pillow~=10.4.0
+imageio~=2.35.1
